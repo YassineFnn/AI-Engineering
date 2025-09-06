@@ -1,1 +1,3 @@
 # AI-Engineering
+
+# https://www.coursera.org/professional-certificates/ai-engineer?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_ai-engineer_ibm_ftcof_professional-certificates_cx_dr_bau_gg_sem_pr_s1_en_m_hyb_24-02_x&campaignid=21008477015&adgroupid=153939068370&device=c&keyword=ibm%20ai%20engineering%20professional%20certificate&matchtype=p&network=g&devicemodel=&creativeid=690407363483&assetgroupid=&targetid=kwd-1261349748844&extensionid=&placement=&gad_source=1&gad_campaignid=21008477015&gbraid=0AAAAADdKX6aO5I-kvYKpNzccWxn5EZjia&gclid=Cj0KCQjwhO3DBhDkARIsANxrhTpAc830NJEb5LxMuUwVcnVia5Dclv4QzgvCQ40p1VrB7hFbIyPZ5O4aAqglEALw_wcB#outcomes
